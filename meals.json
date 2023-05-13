@@ -1,0 +1,34 @@
+{
+    "Scrambled eggs with spinach and cheese": {
+        "ingredients": ["eggs", "spinach", "cheese"],
+        "recipe": "Beat the eggs and cook in a non-stick pan. Add spinach and cheese."
+    },
+    "Greek yogurt with sliced banana and almonds": {
+        "ingredients": ["Greek yogurt", "banana", "almonds"],
+        "recipe": "Mix Greek yogurt with sliced banana. Top with almonds."
+    },
+    "Grilled chicken salad with avocado and almonds": {
+        "ingredients": ["chicken", "salad", "avocado", "almonds"],
+        "recipe": "Grill the chicken and slice. Mix with salad, avocado, and almonds."
+    },
+    "Salmon and spinach salad with olive oil dressing": {
+        "ingredients": ["salmon", "spinach", "salad", "olive oil"],
+        "recipe": "Grill the salmon and serve on a bed of spinach salad. Drizzle with olive oil."
+    },
+    "Beef stir-fry with broccoli and cauliflower rice": {
+        "ingredients": ["beef", "broccoli", "cauliflower rice"],
+        "recipe": "Stir-fry the beef and broccoli. Serve with cauliflower rice."
+    },
+    "Chicken and vegetable stir-fry with cauliflower rice": {
+        "ingredients": ["chicken", "vegetables", "cauliflower rice"],
+        "recipe": "Stir-fry the chicken and vegetables. Serve with cauliflower rice."
+    },
+    "Grilled chicken with roasted vegetables": {
+        "ingredients": ["chicken", "vegetables"],
+        "recipe": "Grill the chicken and serve with roasted vegetables."
+    },
+    "Salmon and roasted vegetables": {
+        "ingredients": ["salmon", "vegetables"],
+        "recipe": "Bake the salmon and serve with roasted vegetables."
+    }
+}
